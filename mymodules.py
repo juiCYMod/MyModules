@@ -3,6 +3,8 @@ import time
 import requests
 import configparser
 
+#順次機能追加予定
+
 inifile = configparser.ConfigParser()
 inifile.read('./config.ini', 'UTF-8')
 
