@@ -1,6 +1,6 @@
 # my_modules
 configparserが必要です。
->pip install configparser
+    pip install configparser
 
 _できること_
 
