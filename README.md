@@ -1,2 +1,2 @@
 # my_modules
-Required modules:configparser
+>pip install configparser
